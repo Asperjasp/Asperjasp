@@ -4,5 +4,5 @@
 
 > `🫶 "La constancia vence lo que la dicha no alcanza."`
 
-### ❤️ Conoce más sobre mí y mis proyectos, únete y sé parte de la comunidad de YaemoriBot ✨
-> `¡Juntos podemos l
+### ❤️ Conoce más sobre mí y mis proyectos✨
+

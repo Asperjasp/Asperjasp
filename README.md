@@ -8,7 +8,7 @@ Generative Adversarial Networks / Generative AI and Machine Learning Scientist a
 
 Estoy interesado en Machine Learning, especificamente para producción en secuencia de models MIDI data ( Musical Interface Digital Interface ) with GAN or VAE Methods, and playing with Magenta from Google.
 
-![Me_Musician](images/Me_Musician_Tech.jpg)
+![Me_Musician](asperjasp/images/Me_Musician_Tech.jpg)
 
 
 

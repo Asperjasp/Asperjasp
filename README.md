@@ -1,8 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
 
-### ¡Hola! 👋 Bienvenido(a) a mi perfil 🌻✨️
+### ## 🎶 Ta-da! , Soy Alejandro. Un cientifico de la Computación que resulto también amando la Música 🎵
+ ( Generative Adversarial Networks)
+Generative AI and Machine Learning Scientist and Researcher
+---
 
-> `🫶 "La constancia vence lo que la dicha no alcanza."`
+Estoy interesado en Machine Learning, especificamente para producción en secuencia de models MIDI data ( Musical Interface Digital Interface ) with GAN or VAE Methods, and playing with Magenta from Google.
 
-### ❤️ Conoce más sobre mí y mis proyectos✨
+
+
+
+
 

@@ -43,12 +43,12 @@ Estoy interesado en Machine Learning y su intersección con  ( Musical Interface
 
 <!-- Nube es muy bonito sustantivo o.O, y la o me recuerda a la composición matemática, so pro. -->
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker,kubernetes,notion&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,mysql,docker,kubernetes,notion&perline=6)](https://skillicons.dev)
 
 
 <b> ⚒️ Tools o Herramientas  </b>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,ubuntu&perline=6)](https://skillicons.dev)
 
 </details>
 
@@ -63,9 +63,7 @@ Estoy interesado en Machine Learning y su intersección con  ( Musical Interface
 
 <img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="48">
 
-Soy un Colombiano que termino disfrutando la Ciencia ( Computación y matemática ), la música, enseñarle a los demas y por supuesto aprender nuevos idiomas, lo cual desarrolle a punta de anime,música y también anki, trabajo duro y excelentes tutores.
-
-🫡
+Soy un Colombiano que termino disfrutando la Ciencia ( Computación y matemática ), la música, enseñarle a los demas y por supuesto aprender nuevos idiomas, lo cual desarrolle a punta de anime,música y también anki, trabajo duro y excelentes tutores. 🫡
 
 </details>
 
@@ -101,15 +99,17 @@ I am a Colombian that happened to enjoy Science, Music, Teaching and of course L
 
 
 ### Proficient
-
+<!-- Spanish -->
 <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48">
+<!-- English -->
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
+<!-- Japanese -->
 <img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48">
-
 
 
 ### Learning
 
+<!-- Chinese -->
 <img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="48">
 
 

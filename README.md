@@ -111,8 +111,37 @@ I am a Colombian that happened to enjoy Science, Music, Teaching and of course L
 
 <!-- Chinese -->
 <img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="48">
+<!-- Korean -->
+<img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="48">
 
 
 <!-- My Latest Research -->
 
+## 📧 Contact me / Hablemos
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/alejandrosanchezpoveda/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=pytorch&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+
+  <a href="https://x.com/Asperjasp/">
+    <img src="https://img.shields.io/badge/Twitter/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+  <a href="https://x.com/Asperjasp/">
+    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+  <a href="https://x.com/Asperjasp/">
+    <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+  <a href="https://x.com/Asperjasp/">
+    <img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=Upwork&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 

@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
 
-## 🎻¡Ta-da! , Alejandro 
+## 🎻¡Ta-da! , soy Alejandro 
 **Cientifico de la Computación que busca unir la Ciencia y tecnologia con  la Música** 🎵 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=376DE6&width=435&lines=+Machine+Learning+and+Data+Scientist+;%F0%9F%8E%BBTech+Musician+and+Language+Learner+%F0%9F%8F%AF;%F0%9F%A4%96Gen+AI+Researcher+%F0%9F%A5%BC)](https://git.io/typing-svg)
@@ -13,17 +13,18 @@ Estoy interesado en Machine Learning y su intersección con  ( Musical Interface
 
 
 
+<!-- My Research -->
 
-<details>
-<summary> 
+
+<!-- Top Proyects I've Down-->
+
 
 <!-- The s <3 -->
 
-<b> 💫 Habilidades /  </b>s<b>kills </b>
+<details>
+<summary> <b> 💫 Habilidades /  </b>s<b>kills </b>
 </summary>
-
 <br>
-
 <b> Ⓜ️ Programming and Markup Languages </b>
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,latex,linux,html,css,vim,bash,md&perline=5)](https://skillicons.dev)

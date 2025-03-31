@@ -1,22 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
 
 ## 🎻¡Ta-da! , soy Alejandro 
-**Cientifico de la Computación que busca unir la Ciencia y tecnologia con  la Música** 🎵 
+**Cientifico de la Computación que busca unir la Ciencia y tecnología con  la Música** 🎵 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=376DE6&width=435&lines=+Machine+Learning+and+Data+Scientist+;%F0%9F%8E%BBTech+Musician+and+Language+Learner+%F0%9F%8F%AF;%F0%9F%A4%96Gen+AI+Researcher+%F0%9F%A5%BC)](https://git.io/typing-svg)
 
-Estoy interesado en Machine Learning y su intersección con  ( Musical Interface Digital Interface ) with GAN or VAE Methods, and playing with Magenta from Google.
+Estoy interesado en Machine Learning y su intersección con la música, ya sera generación de sonido, analisis de sentimiento (NLP), transcripción, sistemas de recomendación u otros.
 
 <!-- Using a direct GitHub repository URL format that works reliably -->
-
-![Me_Musician](https://github.com/Asperjasp/asperjasp/raw/main/images/Me_Musician_Tech.jpg)
 
 
 
 <!-- My Research -->
 
 
-<!-- Top Proyects I've Down-->
+<!-- Top Proyects I've Done-->
 
 
 <!-- The s <3 -->
@@ -98,50 +96,62 @@ I am a Colombian that happened to enjoy Science, Music, Teaching and of course L
 
 
 
-### Proficient
+### 💯 Competente - Proficient
 <!-- Spanish -->
-<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48">
+<span style="display: inline-block;">
+  <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> 
 <!-- English -->
-<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
 <!-- Japanese -->
-<img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48">
+</span>
 
-
-### Learning
-
+### 🈳 Estudiando  -Learning
+<span style="display: inline.block;">
 <!-- Chinese -->
 <img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="48">
 <!-- Korean -->
 <img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="48">
-
+</span>
 
 <!-- My Latest Research -->
 
-## 📧 Contact me / Hablemos
+## 📺  Redes - Social Media  
 
 <div id="badges">
+<!-- LinkedIn-->
   <a href="https://www.linkedin.com/in/alejandrosanchezpoveda/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=pytorch&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=logmein&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-  <a href="your-youtube-URL">
+<!-- Upwork -->
+<a href="https://www.upwork.com/freelancers/~0168152e9c1463bba6?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=Upwork&logoColor=white" alt="Twitter Badge"/>
+  </a>
+<!-- Youtube Channel -->
+  <!-- <a href=" https://www.youtube.com/channel/UCI5h3tbo4s7VE-VuMMYptYw">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-
+  </a> -->
+<!-- Twitter / X-->
   <a href="https://x.com/Asperjasp/">
     <img src="https://img.shields.io/badge/Twitter/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  <a href="https://x.com/Asperjasp/">
+<!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/25897942/alejandro-sanchez-poveda">
+    <img src="https://img.shields.io/badge/StackOverflow-black?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="Twitter Badge"/>
+  </a>
+<!-- Instagram -->
+  <a href="https://www.instagram.com/alejosanchezpoveda/">
     <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
-
-  <a href="https://x.com/Asperjasp/">
+<!--  Facebook  -->
+  <a href="https://www.facebook.com/alejandro.sanchezp.710/">
     <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  <a href="https://x.com/Asperjasp/">
-    <img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=Upwork&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
+## 📧  Hablemos - Contact Me
+
+[![Email](https://img.shields.io/badge/alesanchezpov@gmail.com-email_personal-005F6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alesanchezpov@gmail.com)
+[![Email](https://img.shields.io/badge/asanchezpo@unal.edu.co-email_acádemico-002147?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)

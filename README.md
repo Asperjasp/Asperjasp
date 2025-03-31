@@ -23,20 +23,20 @@ Estoy interesado en Machine Learning y su intersección con la música, ya sera 
 <summary> <b> 💫 Habilidades /  </b>s<b>kills </b>
 </summary>
 <br>
-<b> Ⓜ️ Programming and Markup Languages </b>
+<b> Ⓜ️ Lenguages Programación - Programming and Markup Languages </b>
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,latex,linux,html,css,vim,bash,md&perline=5)](https://skillicons.dev)
 
 <br>
 
-<b> 📚 Frameworks and Libraries </b>
+<b> 📚 Librerias - Frameworks and Libraries </b>
 
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,&perline=6)](https://skillicons.dev)
 
 <br>
 
-<b> 🗄️ Databases & Cloud o Nube ☁️  </b>
+<b> 🗄️ Bases de datos & Nube - Databases & Cloud  ☁️  </b>
 
 
 <!-- Nube es muy bonito sustantivo o.O, y la o me recuerda a la composición matemática, so pro. -->
@@ -44,7 +44,7 @@ Estoy interesado en Machine Learning y su intersección con la música, ya sera 
 [![My Skills](https://skillicons.dev/icons?i=gcp,mysql,docker,kubernetes,notion&perline=6)](https://skillicons.dev)
 
 
-<b> ⚒️ Tools o Herramientas  </b>
+<b> ⚒️ Herramientas - Tools  </b>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,ubuntu&perline=6)](https://skillicons.dev)
 
@@ -66,8 +66,6 @@ Soy un Colombiano que termino disfrutando la Ciencia ( Computación y matemátic
 </details>
 
 
-
-
 <details>
 <summary>
 <b> 🧑‍🔬 About me </b>
@@ -80,10 +78,6 @@ Soy un Colombiano que termino disfrutando la Ciencia ( Computación y matemátic
 I am a Colombian that happened to enjoy Science, Music, Teaching and of course Language Learning and skilled up trough anime, music and obviously anki ,hard work and excelent mentors. 🫡
 
 </details>
-
-
-
-
 
 
 ## 🏯 Idiomas - Languages
@@ -116,7 +110,7 @@ I am a Colombian that happened to enjoy Science, Music, Teaching and of course L
 
 <!-- My Latest Research -->
 
-## 📺  Redes - Social Media  
+## 📺  Redes - Networks 
 
 <div id="badges">
 <!-- LinkedIn-->

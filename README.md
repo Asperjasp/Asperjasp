@@ -1,11 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
+
 
 ## 🎻¡Ta-da! , soy Alejandro 
 **Cientifico de la Computación que busca unir la Ciencia y tecnología con  la Música** 🎵 
 
+<p align="center">
+<img width=50% src="/home/asperjasp/asperjasp/Personal/asperjasp/images/Foto_Profesional_Squared copy.jpg" class="centered"/>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=376DE6&width=435&lines=+Machine+Learning+and+Data+Scientist+;%F0%9F%8E%BBTech+Musician+and+Language+Learner+%F0%9F%8F%AF;%F0%9F%A4%96Gen+AI+Researcher+%F0%9F%A5%BC)](https://git.io/typing-svg)
 
-Estoy interesado en Machine Learning y su intersección con la música, ya sera generación de sonido, analisis de sentimiento (NLP), transcripción, sistemas de recomendación u otros.
+Estoy interesado en Machine Learning y su intersección con la música, desde generación de sonido, analisis de sentimiento (NLP), transcripción, sistemas de recomendación u otros.
+
+
 
 <!-- Using a direct GitHub repository URL format that works reliably -->
 

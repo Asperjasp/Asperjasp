@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=376DE6&width=435&lines=+🤖Machine+Learning+&+Data+Scientister+;%F0%9F%8E%BBTech+Musician+and+Language+Learner+%F0%9F%8F%AF;%F0%9F%A4%96Gen+AI+Researcher+%F0%9F%A5%BC)](https://git.io/typing-svg)
 
-Mi principaln interés esta entre intersección de áreas técnicas tales como el  machine learning y la teoría de la informació con la música y el arte, principalmente en las áreas de  generación de sonido, transcripción de música, Procesamiento de Lenguaje Natural, especificamente en japónes, chino y español.
+Mi principal interés se encuentra entre intersección de áreas técnicas tales como el  machine learning y la teoría de la informació con la música y el arte, principalmente en las áreas de  generación de sonido, transcripción de música, Procesamiento de Lenguaje Natural, especificamente en japónes, chino y español.
 
 <!-- Using a direct GitHub repository URL format that works reliably -->
 

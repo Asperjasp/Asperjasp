@@ -1,7 +1,7 @@
 
 
 ## 🎻¡Ta-da! , soy Alejandro 
-**Científico de la Computación que busca unir la Ciencia y tecnología con  la Música** 🎵 
+**Científico de la Computación que busca unir la Ciencia y tecnología con la Música y el Aprendizaje de Idiomas** 🎵 
 
 <p align="center">
 <img width=50% src="images/CoderMusician.jpg" class="centered"/>

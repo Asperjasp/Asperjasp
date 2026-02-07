@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Simplified monochrome Hugging Face wordmark + icon approximation for personal README use.
+     This is a clean white-on-black SVG created to match project's badge style.
+     Note: Original Hugging Face mark is trademarked; this simplified version is intended for personal use
+     and follows user's request to make it white on black to match other icons. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="100%" height="100%" fill="#000"/>
+  <!-- Smile circle background element (approximated) -->
+  <g transform="translate(28,28) scale(0.75)">
+    <path d="M100 10c49.71 0 90 40.29 90 90s-40.29 90-90 90S10 149.71 10 100 50.29 10 100 10z" fill="#000"/>
+    <!-- Simplified face: two eyes and smile, white -->
+    <g fill="#fff">
+      <ellipse cx="70" cy="92" rx="8" ry="12"/>
+      <ellipse cx="130" cy="92" rx="8" ry="12"/>
+      <path d="M65 125c10 18 50 18 60 0" stroke="#fff" stroke-width="8" stroke-linecap="round" fill="none"/>
+    </g>
+  </g>
+  <!-- Wordmark: 'hugging face' in lowercase, simple sans serif approximation -->
+  <g transform="translate(0,200)">
+    <text x="50%" y="0" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#fff" text-anchor="middle">Hugging Face</text>
+  </g>
+</svg>
